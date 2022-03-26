@@ -1,0 +1,8 @@
+.pageNumber {
+    padding: 9px;
+    border: 1px solid skyblue;
+  }
+  .pageNumber:focus, .pageNumber:hover{
+    background-color: skyblue;
+    color: white;
+  }
